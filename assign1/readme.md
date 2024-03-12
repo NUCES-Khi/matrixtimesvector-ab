@@ -1,6 +1,10 @@
 # Assignment 1
 ## Team Members
-//-- place table as shown in main readme.md file --//
+|std_id|Name|
+|--------|-|
+|k21-3094|Arooba Minhas|
+|k21-3081|Bushra Khan|
+
 ## Output Screenshots
 ## Sequential matrix-vector multiplication
 ![seq_mat_mult_output](https://github.com/NUCES-Khi/matrixtimesvector-ab/assets/123465638/dea46fea-4ec5-4e29-a879-680523f05a2f)
