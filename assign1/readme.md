@@ -2,7 +2,8 @@
 ## Team Members
 //-- place table as shown in main readme.md file --//
 ## Output Screenshots
-//-- Add output screenshots here. --//
+![seq_mat_mult_output](https://github.com/NUCES-Khi/matrixtimesvector-ab/assets/123465638/dea46fea-4ec5-4e29-a879-680523f05a2f)
+
 ## Results and Analysis
 //-- Show graphs results and charts where necessary and discuss the results and what they signify. --// 
 ## Major Problems Encountered
