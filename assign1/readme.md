@@ -19,7 +19,7 @@
 ![omp_tile_output](https://github.com/NUCES-Khi/matrixtimesvector-ab/assets/123465638/7e0be492-3710-4046-abbd-8761b02c5b36)
 
 ## MPI matrix-vector multiplication program in C that uses tiling of matrix
-
+![mpi_tile_output](https://github.com/NUCES-Khi/matrixtimesvector-ab/assets/123465638/d65b770b-f156-4640-b840-bade0821add1)
 
 
 ## Results and Analysis
