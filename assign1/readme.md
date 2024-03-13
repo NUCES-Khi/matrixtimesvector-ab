@@ -23,7 +23,8 @@
 
 
 ## Results and Analysis
-//-- Show graphs results and charts where necessary and discuss the results and what they signify. --// 
+![time_output](https://github.com/NUCES-Khi/matrixtimesvector-ab/assets/123465638/2cb4352c-3e8a-4900-95d7-a1b3787156c8)
+
 ## Major Problems Encountered
 1. Issue 1: Blah blah .....
     - Solution1: tried to blah blahb
