@@ -28,9 +28,8 @@
 
 
 ## Major Problems Encountered
-1. Issue 1: Blah blah .....
-    - Solution1: tried to blah blah
-    - Solution2: treid to blab blah
+1. Issue 1:Permission Denied Error
+    Added necessary execute permissions (chmod +x filename) before attempting to run the script.
     - **Resolved**
 3. Issue 2: Blah blah blah ....
     - Solution1: tried to blah blahb
