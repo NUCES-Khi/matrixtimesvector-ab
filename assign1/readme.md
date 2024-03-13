@@ -29,8 +29,8 @@
 
 ## Major Problems Encountered
 1. Issue 1:Permission Denied Error
-    Added necessary execute permissions (chmod +x filename) before attempting to run the script.
+   - Added necessary execute permissions (chmod +x filename) before attempting to run the script.
     - **Resolved**
-3. Issue 2: Blah blah blah ....
-    - Solution1: tried to blah blahb
+3. Issue 2: Incorrect Command Execution for MPI Programs
+    - Solution1: From google and diffrent websites for  MPI we checked the correct commands to execute MPI Programs.
     - **Resolved**
