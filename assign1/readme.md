@@ -29,7 +29,7 @@
 
 ## Major Problems Encountered
 1. Issue 1: Blah blah .....
-    - Solution1: tried to blah blahb
+    - Solution1: tried to blah blah
     - Solution2: treid to blab blah
     - **Resolved**
 3. Issue 2: Blah blah blah ....
