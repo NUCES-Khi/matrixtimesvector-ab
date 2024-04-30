@@ -7,7 +7,6 @@
 |k21-3081|Bushra Khan|
 
 ## Assingment 1 ##
-Status: **In progress**
+Status: **Completed**
 
-## Assignment 2 ##
-Status: **Not assigned yet**
+
